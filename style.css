@@ -1,0 +1,31 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+ font-size: 23px;
+ width: 100%;
+ margin: 0px;
+ font-family: 'Rakkas', cursive;
+ color:black;
+
+}
+
+
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 20px;
+    width: 500px;
+    margin-top: 25px;
+    color: red
+}
+
+.link:hover {
+    font-size: 25px;
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

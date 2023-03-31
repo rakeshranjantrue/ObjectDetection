@@ -1,0 +1,48 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+ font-size: 20px;
+ width: 100%;
+ margin: 0px;
+ font-family: 'Rakkas', cursive;
+ color:black;
+}
+
+.text
+{
+    font-size: 15px;
+    font-family: 'Rakkas', cursive;
+    color: black;
+}
+
+#status
+{
+    font-size: 18px;
+}
+
+.back
+{
+    font-family: 'Shrikhand', cursive;
+    font-size: 20px;
+    color:black;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: ghostwhite;
+    box-shadow: cornsilk 5px 5px 5px;
+}
+
+.back:hover
+{
+    font-size: 25px;
+}
+
+canvas{
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px honeydew;
+}
